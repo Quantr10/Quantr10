@@ -1,18 +1,8 @@
 # Hi, I'm Quan 👋
 
 ## About Me
-<!--
-**Quantr10/Quantr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [Portfolio](https://quantran10.vercel.app/)
 
 ## Skills
 
@@ -61,10 +51,10 @@
 
 ## Contact
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Quantr10)
+[<img src='img/Gmail_icon_(2020).svg' alt='gmail' height='40' width='38'>](mailto:thequantran2005@gmail.com)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt='github' height='40'>](https://github.com/Quantr10)
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thequantran//)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100026449861725)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://quantran10.vercel.app/)  
+
 
 ## Github Contribution
 
